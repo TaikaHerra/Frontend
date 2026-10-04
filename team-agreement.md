@@ -1,4 +1,4 @@
-# Ryhmätyösopimus
+# Ryhmätyösopimus (ei tarvetta täyttää)
 
 - Ryhmän nimi ja jäsenet:
 - Yhteyshenkilö:

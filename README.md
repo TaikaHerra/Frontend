@@ -29,4 +29,4 @@ Luo tiedostoista oma Git-repositorio ja tallenna ensimmäisen commitin SHA läht
 
 Lisenssi: Apache-2.0.
 
-Joku SHA homma: f1bd66afe42032b8b4694c90c5feed382f1c0cf8
+Joku SHA tunnus: f1bd66afe42032b8b4694c90c5feed382f1c0cf8

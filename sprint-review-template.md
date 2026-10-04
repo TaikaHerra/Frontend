@@ -1,4 +1,4 @@
-# Sprinttikatselmuksen pöytäkirja
+# Sprinttikatselmuksen pöytäkirja 
 
 - Sprintti ja päivämäärä:
 - Sprinttitavoite:
